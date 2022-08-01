@@ -1,5 +1,5 @@
-[<img src="https://github.com/leoarcabold/leoarcabold/blob/master/banner.jpg"]
-### Olá 👋 eu sou o Leandro Soares
+### Leandro Soares
+Tenho formação em análise e desenvolvimento de sistemas, atualmentes estudo e desenvolvo aplicações back-end em liguagem Java para web API utilizando o ecosistema Spring Boot, Spring Data, banco de dados MySQL/PostGreSQL.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leoarcabold/) 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
