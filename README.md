@@ -1,5 +1,6 @@
 ### Leandro Soares
-Sou formado em análise e desenvolvimento de sistemas, atualmentes estudo e desenvolvo aplicações back-end em liguagem Java para web API utilizando o ecosistema Spring Boot, Spring Data, banco de dados MySQL/PostGreSQL.
+
+👋 Olá! Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, me dedico ao estudo e desenvolvimento de aplicações back-end em Java, focando em web APIs. Sou entusiasta do ecossistema Spring, utilizando frequentemente o Spring Boot e Spring Data, e tenho experiência com bancos de dados MySQL e PostgreSQL. Vamos conectar e colaborar!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leoarcabold/) 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
