@@ -1,6 +1,6 @@
 ### Leandro Soares
 
-👋 Olá! Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, me dedico ao estudo e desenvolvimento de aplicações back-end em Java, focando em web APIs. Sou entusiasta do ecossistema Spring, utilizando frequentemente o Spring Boot e Spring Data, e tenho experiência com bancos de dados MySQL e PostgreSQL. Vamos conectar e colaborar!
+Olá! Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, me dedico ao estudo e desenvolvimento de aplicações back-end em Java, focando em web APIs. Sou entusiasta do ecossistema Spring, utilizando frequentemente o Spring Boot e Spring Data, e tenho experiência com bancos de dados MySQL e PostgreSQL. Vamos conectar e colaborar!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leoarcabold/) 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -17,19 +17,10 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-  
-  
-<!--
-**leoarcabold/leoarcabold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
